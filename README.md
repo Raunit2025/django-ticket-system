@@ -4,7 +4,7 @@
 
 1. Add your Gemini API key in `.env`:
 
-GEMINI_API_KEY=your_key_here
+GEMINI_API_KEY=**************
 
 2. Run:
 
